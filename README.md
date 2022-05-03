@@ -1,2 +1,1 @@
-# e-ride-stage-1
-APP
+# PRO-C68-Template
